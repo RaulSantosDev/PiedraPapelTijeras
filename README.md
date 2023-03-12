@@ -1,3 +1,5 @@
-# Piedra, Papel, Tijeras
-Mi primer proyecto en Pyhton: Piedra, papel o tijera.
-Creado por mí
+## Descripción
+
+Este es un proyecto creado con Python el cual implementa buenas prácticas en base a un proyecto sencillo.
+
+[LinkedIn](www.linkedin.com/in/raulsantosdev)
